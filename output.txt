@@ -1,0 +1,181 @@
+|        |
+|        |
+|        |
+|   BN   |
+|   NB   |
+|        |
+|        |
+|        |
+
+|        |
+|        |
+|        |
+|   BN   |
+|   NN   |
+|    N   |
+|        |
+|        |
+
+|        |
+|        |
+|        |
+|   BN   |
+|   NB   |
+|    NB  |
+|        |
+|        |
+
+|        |
+|        |
+|        |
+|   BN   |
+|   NNN  |
+|    NB  |
+|        |
+|        |
+
+|        |
+|        |
+|        |
+|   BN   |
+|   BNN  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|        |
+|        |
+|  NNN   |
+|   BNN  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|        |
+| B      |
+|  BNN   |
+|   BNN  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|        |
+| B      |
+| NNNN   |
+|   BNN  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|        |
+| B      |
+| NNNNB  |
+|   BBB  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+| NNNNB  |
+|   BBB  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BBBBBB  |
+|   BBB  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+|   BBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| B BBB  |
+|  BBBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+| NBBBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| B BBB  |
+|BBBBBB  |
+|        |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+|BNBBBB  |
+| N      |
+|        |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+|BNBBBB  |
+| B      |
+|B       |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+|BNBBBB  |
+| N      |
+|BN      |
+
+|        |
+|N       |
+| N      |
+|BNBBBB  |
+| N BBB  |
+|BNBBBB  |
+| B      |
+|BBB     |
+
+|        |
+|N       |
+| N      |
+|BNNBBB  |
+| N NBB  |
+|BNBBNB  |
+| B   N  |
+|BBB     |
+
+STA VINCENDO IL BIANCO
